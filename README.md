@@ -1,0 +1,2 @@
+# VIC-guayard
+Aprendiendo Python
